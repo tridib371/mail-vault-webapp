@@ -61,30 +61,6 @@ The project follows a modular UI approach with reusable components and scalable 
 ---
 
 
-app/
-┣ (auth)/
-┃ ┣ login/
-┃ ┣ signup/
-┃ ┗ forgot-password/
-┣ (public)/
-┃ ┣ pricing/
-┃ ┣ contact/
-┃ ┣ terms/
-┃ ┣ privacy-policy/
-┃ ┗ how-it-works/
-┣ dashboard/
-┃ ┣ mail/
-┃ ┣ subscription/
-┃ ┗ profile/
-┣ components/
-┃ ┣ Navbar.tsx
-┃ ┣ Footer.tsx
-┃ ┗ Sidebar.tsx
-┗ layout.tsx
-
-
----
-
 ## 🛠️ Setup Instructions
 
 ### 1️⃣ Clone the repository
@@ -122,11 +98,3 @@ This project is for educational and internship purposes.
 
 Built with 💻 by Tridib Sarkar
 
----
-
-If you want next upgrade, I can also:
-- :contentReference[oaicite:0]{index=0}
-- or :contentReference[oaicite:1]{index=1}
-- or :contentReference[oaicite:2]{index=2}
-
-Just tell me 👍
