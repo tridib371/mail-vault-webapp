@@ -53,7 +53,7 @@ export default function DashboardPage() {
           </div>
         </div>
         <div className="card">
-          <h2 className="font-bold mb-4">Quick Actions</h2>
+          <h2 className="font-bold mb-4">Actions</h2>
           <div className="space-y-3">
             {[
               {label:"View All Mail", href:"/dashboard/mail", icon:Mail},
