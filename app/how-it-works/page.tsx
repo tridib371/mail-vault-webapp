@@ -51,7 +51,7 @@ export default function HowItWorksPage() {
           </div>
         </div>
         <div className="text-center mt-16">
-          <Link href="/signup" className="btn-primary px-10 py-3 text-base">Your Free Trial</Link>
+          <Link href="/signup" className="btn-primary px-10 py-3 text-base">Start Your Free Trial</Link>
         </div>
       </section>
       <Footer />
