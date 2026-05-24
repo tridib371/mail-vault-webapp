@@ -22,7 +22,7 @@ export default function Navbar() {
           <Link href="/signup" className="btn-primary text-sm">Get Started</Link>
         </div>
         <button className="md:hidden" onClick={() => setOpen(!open)}>
-          {open ? <X size={2} /> : <Menu size={2} />}
+          {open ? <X size={22} /> : <Menu size={22} />}
         </button>
       </div>
       {open && (
