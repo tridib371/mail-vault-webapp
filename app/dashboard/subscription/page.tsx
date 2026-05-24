@@ -23,7 +23,7 @@ export default function SubscriptionPage() {
       <div className="card mb-8" style={{ background: 'linear-gradient(135deg,rgba(108,99,255,0.15),rgba(167,139,250,0.08))' }}>
         <div className="flex flex-col md:flex-row md:items-center justify-between gap-4">
           <div>
-            <p className="text-xs mb-1" style={{ color: 'var(--muted)' }}>Current</p>
+            <p className="text-xs mb-1" style={{ color: 'var(--muted)' }}>Current Plan</p>
             <h2 className="text-2xl font-extrabold">Advanced Plan</h2>
             <div className="flex items-center gap-4 mt-2 text-sm" style={{ color: 'var(--muted)' }}>
               <span className="flex items-center gap-1"><Calendar size={14} /> Renews Jun 1, 2025</span>
