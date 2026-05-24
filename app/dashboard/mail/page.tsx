@@ -86,7 +86,7 @@ export default function MailPage() {
           ) : (
             <div className="text-center py-16">
               <FileText size={40} style={{ color: 'var(--border)', margin: '0 auto 1rem' }} />
-              <p style={{ color: 'var(--muted)' }}>item to preview</p>
+              <p style={{ color: 'var(--muted)' }}>Select a mail item to preview</p>
             </div>
           )}
         </div>
