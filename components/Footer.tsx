@@ -36,9 +36,7 @@ export default function Footer() {
           </div>
         </div>
       </div>
-      <div className="max-w-6xl mx-auto px-6 pb-6 text-sm" style={{ color: 'var(--muted)' }}>
-        © {new Date().getFullYear()} MailVault. Protecting your messages.
-      </div>
+      <div className="max-w-6xl mx-auto px-6 pb-6 text-sm" style={{ color: 'var(--muted)' }}> © {new Date().getFullYear()} MailVault. All rights reserved. </div>
     </footer>
   );
 }
