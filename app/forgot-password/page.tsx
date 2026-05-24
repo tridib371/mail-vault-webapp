@@ -10,7 +10,7 @@ export default function ForgotPasswordPage() {
       <div className="w-full max-w-md">
         <div className="text-center mb-8">
           <Link href="/" className="inline-flex items-center gap-2 font-bold text-xl mb-6">
-            <Mail size={2} style={{ color: 'var(--accent)' }} />
+            <Mail size={22} style={{ color: 'var(--accent)' }} />
             <span>Mail<span style={{ color: 'var(--accent)' }}>Vault</span></span>
           </Link>
           <h1 className="text-3xl font-extrabold">{sent ? "Check your email" : "Reset password"}</h1>
