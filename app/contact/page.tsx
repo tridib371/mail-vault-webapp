@@ -37,7 +37,7 @@ export default function ContactPage() {
               <div className="text-center py-8">
                 <Send size={40} style={{ color: 'var(--accent)', margin: '0 auto 1rem' }} />
                 <h3 className="font-bold text-xl mb-2">Message Sent!</h3>
-                <p style={{ color: 'var(--muted)' }}>We&apos;ll get back to you within 2 hours.</p>
+                <p style={{ color: 'var(--muted)' }}>We&apos;ll get back to you within 24 hours.</p>
               </div>
             ) : (
               <div className="space-y-4">
