@@ -9,7 +9,7 @@
 [![License](https://img.shields.io/badge/License-Educational-orange?style=for-the-badge)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Active_Development-brightgreen?style=for-the-badge)]()
 
-[📖 View Demo](https://mail-vault-webapp.netlify.app) · [🐛 Report Bug](https://github.com/tridib371/mailbox-app/issues) · [✨ Request Feature](https://github.com/tridib371/mailbox-app/issues)
+[📖 View Demo](https://mail-vault-web.netlify.app) · [🐛 Report Bug](https://github.com/tridib371/mailbox-app/issues) · [✨ Request Feature](https://github.com/tridib371/mailbox-app/issues)
 
 </div>
 
