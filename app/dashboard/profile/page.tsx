@@ -13,7 +13,7 @@ export default function ProfilePage() {
   );
   return (
     <div className="max-w-2xl mx-auto">
-      <h1 className="text-3xl font-extrabold mb-8">Profile Settings</h1>
+      <h1 className="text-3xl font-extrabold mb-8">Profile </h1>
       {/* Avatar */}
       <div className="card mb-6">
         <h2 className="font-bold mb-4 flex items-center gap-2"><User size={16} style={{color:'var(--accent)'}}/>Personal Information</h2>
